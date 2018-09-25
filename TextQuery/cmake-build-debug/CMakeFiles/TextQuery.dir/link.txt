@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TextQuery.dir/main.cpp.o CMakeFiles/TextQuery.dir/TextQuery.cpp.o  -o TextQuery 

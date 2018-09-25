@@ -1,0 +1,4 @@
+/home/qiuyu/文档/clion-2018.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/qiuyu/code/cpp/projs/TextQuery
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/qiuyu/code/cpp/projs/TextQuery/cmake-build-debug
